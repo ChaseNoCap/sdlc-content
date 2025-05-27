@@ -1,6 +1,6 @@
 {
   "name": "@chasenocap/sdlc-content",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "SDLC templates and knowledge base for metaGOTHIC framework",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
